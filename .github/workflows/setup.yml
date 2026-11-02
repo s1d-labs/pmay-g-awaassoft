@@ -4,6 +4,11 @@ name: setup
 # family.py. The hub trusts this repo (s1d-labs/<family>) through the GitHub OIDC token; no secrets are needed.
 on:
   workflow_dispatch:
+    inputs:
+      seed_limit:
+        description: "Seed only the first N queue items of each report (first pool run); empty = all"
+        required: false
+        default: ""
 
 permissions:
   id-token: write
@@ -22,3 +27,4 @@ jobs:
       - run: python setup_family.py
         env:
           SCRAPE_HUB_URL: https://scrape.s1d.me
+          SEED_LIMIT: ${{ inputs.seed_limit }}

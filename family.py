@@ -1,27 +1,47 @@
-"""What this family scrapes. Change this file first.
+"""What this family scrapes: the PMAY-G AwaasSoft MIS reports on report.pmayg.dord.gov.in (Ministry of Rural Development).
 
-FAMILY must equal the repo name (s1d-labs/<FAMILY>) and the family the hub owner added on scrape.s1d.me/runners.
-Each project is one queue of work on one site; `target` is the host it hits (the hub caps workers per target).
+FAMILY must equal the repo name (s1d-labs/<FAMILY>, case aside) and the family on scrape.s1d.me/runners.
+One project per report (reports.json, made by discover.py): each report has its own columns, so each gets its own table in the
+team database (scrape_hub.projects.<project>). One queue item per combination of the report's filters (financial year x scheme x
+...); the task walks the states inside an item. The site only answers from India: proxy="IN" runs the work on GitHub runners
+through the hub's Indian proxies.
 """
+import itertools
 import json
 from pathlib import Path
 
-FAMILY = json.loads((Path(__file__).parent / "scrape.json").read_text())["family"]
+HERE = Path(__file__).parent
+FAMILY = json.loads((HERE / "scrape.json").read_text())["family"]
+TARGET = "report.pmayg.dord.gov.in"
+REPORTS = json.loads((HERE / "reports.json").read_text())
+
+
+def items(rep):
+    """One queue item per combination of the report's filters (no filters: one item, "all")."""
+    dims = [{**d, "options": d["options"][::-1] if d["key"] == "fin_year" else d["options"]} for d in rep["dims"]]   # newest year first
+    out = []
+    for combo in itertools.product(*[d["options"] for d in dims]):
+        out.append({"key": "~".join(v for v, _ in combo) or "all",
+                    "payload": {"sel": {d["field"]: v for d, (v, _) in zip(dims, combo)},
+                                "labels": {d["field"]: t for d, (_, t) in zip(dims, combo)}}})
+    return out
+
 
 PROJECTS = [
     {
-        "name": f"{FAMILY}-books",              # project names: 2-64 chars of a-z 0-9 - _, start them with the family name
-        "title": "Books to Scrape catalogue",
-        "task": "crawl",                         # a task from scrape.json
-        "target": "books.toscrape.com",
-        "env": {"SITE": "https://books.toscrape.com"},
-        "probe": f"{FAMILY}:books.toscrape.com",
-        "unit_label": "page", "record_label": "book",
-        # the queue: one item per catalogue page; `expected` (records per item) gives progress and ETAs on the dashboard
-        "items": [{"key": f"page-{n}", "payload": {"url": f"https://books.toscrape.com/catalogue/page-{n}.html", "expected": 20}}
-                  for n in range(1, 51)],
-    },
+        "name": f"{FAMILY}-{r['slug']}",            # 2-64 chars of a-z 0-9 - _
+        "title": f"PMAY-G {r['code']} {r['title']}".replace("  ", " ")[:200],
+        "task": "crawl",
+        "target": TARGET,
+        "env": {"SITE": f"https://{TARGET}", "REPORT": r["slug"]},
+        "probe": f"{FAMILY}:{TARGET}",
+        "unit_label": "query", "record_label": "row",
+        # gentle: a government site, one Indian proxy per worker; the hub's back-off lowers it further if the site pushes back
+        "pool": {"proxy": "IN", "threads": 2, "delay_ms": 500, "max_workers": 4},
+        "items": items(r),
+    }
+    for r in sorted(REPORTS, key=lambda r: (not r["code"], r["code"], r["slug"]))
 ]
 
-# health checks the hub runs every minute; work for a project holds while its probe fails
-PROBES = [{"name": f"{FAMILY}:books.toscrape.com", "url": "https://books.toscrape.com/", "expect": "All products"}]
+# health check the hub runs every minute (through an Indian proxy: the host is .gov.in); work holds while it fails
+PROBES = [{"name": f"{FAMILY}:{TARGET}", "url": f"https://{TARGET}/netiay/newreport.aspx", "expect": "Physical Progress Reports"}]

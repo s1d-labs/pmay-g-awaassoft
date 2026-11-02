@@ -25,8 +25,12 @@ jobs:
           python3 -c "import json; [print(c) for c in json.load(open('scrape.json')).get('setup', [])]" | grep -v "requirements.txt" | while IFS= read -r cmd; do bash -c "$cmd"; done
       - name: Parsing tests
         run: python -m pytest tests -q
+      # report.pmayg.dord.gov.in only answers from India and this runner is in the US/EU, so this step times out here; it is
+      # informational. Run it from a box through an Indian proxy: myproxy run scrape-check --items 2
       - name: scrape-check (local stand-in hub, 2 real items)
-        run: scrape-check --items 2
+        continue-on-error: true
+        timeout-minutes: 8
+        run: scrape-check --items 2 --timeout 300
       - uses: actions/upload-artifact@v4
         if: ${{ always() }}
         with:

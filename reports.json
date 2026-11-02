@@ -1,0 +1,11714 @@
+[
+ {
+  "path": "AwaasPlus2018Reports/AwaasPlusCategoryWiseVerReport.aspx",
+  "slug": "i3-awaaspluscategorywiseverreport",
+  "code": "I.3",
+  "title": "AwaasPlus Category-Wise Data Summary of Total Household, Rejected, Priority Setting Done And Appellate Committee Approved",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "state_name",
+    "total_no_of_beneficiaries_minority",
+    "total_no_of_beneficiaries_others",
+    "total_no_of_beneficiaries_sc",
+    "total_no_of_beneficiaries_st",
+    "total_no_of_beneficiaries_total",
+    "rejected_beneficiaries_minority",
+    "rejected_beneficiaries_others",
+    "rejected_beneficiaries_sc",
+    "rejected_beneficiaries_st",
+    "rejected_beneficiaries_total",
+    "remaining_beneficiaries_minority",
+    "remaining_beneficiaries_others",
+    "remaining_beneficiaries_sc",
+    "remaining_beneficiaries_st",
+    "remaining_beneficiaries_total",
+    "priority_setting_minority",
+    "priority_setting_others",
+    "priority_setting_sc",
+    "priority_setting_st",
+    "priority_setting_total",
+    "verified_by_appellate_committee_auto_registered_minority",
+    "verified_by_appellate_committee_auto_registered_others",
+    "verified_by_appellate_committee_auto_registered_sc",
+    "verified_by_appellate_committee_auto_registered_st",
+    "verified_by_appellate_committee_auto_registered_total",
+    "remanded_by_gram_sabha_after_appellate_minority",
+    "remanded_by_gram_sabha_after_appellate_others",
+    "remanded_by_gram_sabha_after_appellate_sc",
+    "remanded_by_gram_sabha_after_appellate_st",
+    "remanded_by_gram_sabha_after_appellate_total",
+    "final_pwl_after_remanded_by_gram_sabha_minority",
+    "final_pwl_after_remanded_by_gram_sabha_others",
+    "final_pwl_after_remanded_by_gram_sabha_sc",
+    "final_pwl_after_remanded_by_gram_sabha_st",
+    "final_pwl_after_remanded_by_gram_sabha_total"
+   ]
+  }
+ },
+ {
+  "path": "AwaasPlus2018Reports/AwaasPlusPriorityListVerReport.aspx",
+  "slug": "awaasplusprioritylistverreport",
+  "code": "",
+  "title": "AwaasPlus Status of Priority List Verification",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "state_name",
+    "number_of_gram_panchayats_gps_where_total_no_of_gps",
+    "number_of_gram_panchayats_gps_where_total_no_of_gps_mapped_w",
+    "number_of_gram_panchayats_gps_where_total_no_of_gps_having_e",
+    "number_of_gram_panchayats_gps_where_minorities_has_been_gene",
+    "number_of_gram_panchayats_gps_where_gram_sabha_resolution_ha",
+    "number_of_gram_panchayats_gps_where_panchayats_having_awaasp",
+    "number_of_gram_panchayats_gps_where_panchayats_having_awaasp_2",
+    "number_of_gram_panchayats_gps_where_panchayats_having_awaasp_3",
+    "number_of_gram_panchayats_gps_where_panchayats_having_awaasp_4",
+    "number_of_gram_panchayats_gps_where_removal_list_has_been_en",
+    "number_of_gram_panchayats_gps_where_removal_list_has_been_en_2",
+    "number_of_gram_panchayats_gps_where_removal_list_has_been_en_3",
+    "number_of_gram_panchayats_gps_where_removal_list_has_been_en_4",
+    "number_of_gram_panchayats_gps_where_priority_setting_has_bee",
+    "number_of_gram_panchayats_gps_where_priority_setting_has_bee_2",
+    "number_of_gram_panchayats_gps_where_priority_setting_has_bee_3",
+    "number_of_gram_panchayats_gps_where_priority_setting_has_bee_4",
+    "number_of_gram_panchayats_gps_where_verified_priority_list_h",
+    "number_of_gram_panchayats_gps_where_verified_by_appellate_co",
+    "number_of_gram_panchayats_gps_where_verified_by_appellate_co_2",
+    "number_of_gram_panchayats_gps_where_verified_by_appellate_co_3",
+    "number_of_gram_panchayats_gps_where_verified_by_appellate_co_4",
+    "number_of_gram_panchayats_gps_where_appellate_committee_veri"
+   ]
+  }
+ },
+ {
+  "path": "AwaasPlus2018Reports/CategoryWiseAwaasPlusDataReport.aspx",
+  "slug": "i1-categorywiseawaasplusdatareport",
+  "code": "I.1",
+  "title": "Category-wise AwaasPlus data summary",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 33,
+   "columns": [
+    "sno",
+    "state",
+    "total_households",
+    "others",
+    "sc",
+    "st"
+   ]
+  }
+ },
+ {
+  "path": "AwaasPlus2024Reports/AwaasPlus2024TargetData.aspx",
+  "slug": "awaasplus2024targetdata",
+  "code": "",
+  "title": "AwaasPlus 2024 Target",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 19,
+   "columns": [
+    "sno",
+    "state_name",
+    "mord_target"
+   ]
+  }
+ },
+ {
+  "path": "AwaasPlus2024Reports/AwaasPlus2024_PhyProgReport_SpecialProject.aspx",
+  "slug": "awaasplus2024-phyprogreport-specialproject",
+  "code": "",
+  "title": "Pradhan Mantri Awaas Yojana-Gramin",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "ALLPMAYG",
+      "Special Projects(AwaasPlus 2024) Cumulative progress till date"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "state_name",
+    "geotagged",
+    "sanctioned"
+   ]
+  }
+ },
+ {
+  "path": "ConvergenceReport/Convergence_Lokos_DataReport.aspx",
+  "slug": "convergence-lokos-datareport",
+  "code": "",
+  "title": "Convergence Report",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 35,
+   "columns": [
+    "sno",
+    "state_name",
+    "total_sanctioned",
+    "completed_and_verified",
+    "completed_to_be_verified",
+    "total_completed",
+    "total_no_of_houses_for_which_convergence_data_has_been_seede",
+    "toilet_constructed",
+    "electricity_connection",
+    "lpg_connection",
+    "water_connection",
+    "shg"
+   ]
+  }
+ },
+ {
+  "path": "EFMSReport/AdminFtoTransSummaryReport.aspx",
+  "slug": "f13-adminftotranssummaryreport",
+  "code": "F.13",
+  "title": "Admin FTO transaction summary",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddllevel",
+    "key": "filter_level",
+    "options": [
+     [
+      "1",
+      "All Levels"
+     ],
+     [
+      "2",
+      "State"
+     ],
+     [
+      "3",
+      "District"
+     ],
+     [
+      "4",
+      "Block"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddl_detail",
+    "key": "detail",
+    "options": [
+     [
+      "1",
+      "Total No. Of FTO Generated"
+     ],
+     [
+      "2",
+      "Total No. Of FTO Signed"
+     ],
+     [
+      "3",
+      "Total No. Of FTO Verified"
+     ],
+     [
+      "4",
+      "No. Of Pending With PFMS"
+     ],
+     [
+      "5",
+      "No. Of Sent To Bank"
+     ],
+     [
+      "6",
+      "No. Of Credit Confirmation"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": null,
+  "check": {
+   "http": 200,
+   "rows": 4,
+   "columns": [
+    "s_no",
+    "state",
+    "district",
+    "block",
+    "fto_file_name",
+    "no_of_vendors_employees",
+    "amount_rs"
+   ]
+  }
+ },
+ {
+  "path": "EFMSReport/BenAccountFrozenReport.aspx",
+  "slug": "f3-benaccountfrozenreport",
+  "code": "F.3",
+  "title": "Beneficiary Registered Account Frozen & Verified Report",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ],
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ],
+     [
+      "ALLPMAYG",
+      "PMAYG Cumulative progress"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "PMAYG",
+      "PRADHAN MANTRI AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "INC",
+      "IAY NEW CONSTRUCTION"
+     ],
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES"
+     ],
+     [
+      "SP_PTG1718",
+      "PRIMITIVE TRIBAL GROUP 1718"
+     ],
+     [
+      "ALLSS",
+      "ALL STATE SCHEMES"
+     ],
+     [
+      "AJAY",
+      "AADIM JAMATI AWAAS YOJANA"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ABKAYG",
+      "ATAL BANDHKAM KAMGAR AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "BBS",
+      "BATHROOM BANDHKAM SAHAY"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI LADLI BAHNA AWAAS YOJANA"
+     ],
+     [
+      "MMAYG",
+      "MUKHYA MANTRI AWAAS YOJANA GRAMIN (UP)"
+     ],
+     [
+      "MMGASY",
+      "MUKHYAMANTRI GRAMIN AWAAS SAHAYATA YOJANA"
+     ],
+     [
+      "MMGAY",
+      "MUKHYAMANTRI GRAMIN AWAAS YOJANA"
+     ],
+     [
+      "MMPS",
+      "MUKHYA MANTRI PROTSAHAK SAHAY"
+     ],
+     [
+      "MWSKSY",
+      "MUKHYAMANTRI WAAS STHAL KRAY SAHAYATA YOJANA"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "NC2023",
+      "NATURAL CALAMITIES 2023"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "PMAYG-State-TOPUP",
+      "PMAYG State TOPUP"
+     ],
+     [
+      "StateTopup",
+      "PMAYG-STATE-TOPUP"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SSFAA_2223",
+      "SPECIAL SCHEME FLOOD AFFECTED AREA"
+     ],
+     [
+      "SST_2223",
+      "SPECIAL PROJECT NLFT(SD)"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "FANI",
+      "Special Scheme Fani"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ],
+     [
+      "YCMVY",
+      "YASHWANTRAO CHAVAN MUKT VASAHAT YOJANA"
+     ],
+     [
+      "YGY",
+      "YASHWANT GHARKUL YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "state_name",
+    "registered",
+    "commercial_regional_account",
+    "cooperative_account",
+    "post_office_account",
+    "total_account",
+    "frozen",
+    "sent_to_pfms",
+    "pending_with_pfms",
+    "verified",
+    "pfms_rejected"
+   ]
+  }
+ },
+ {
+  "path": "EFMSReport/BenAccountFrozenVendorReport.aspx",
+  "slug": "benaccountfrozenvendorreport",
+  "code": "",
+  "title": "Admin accounts frozen and verified",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "state_name",
+    "registration_state",
+    "registration_district",
+    "registration_block",
+    "registration_total_registered",
+    "pending_with_pfms",
+    "verified",
+    "send_to_pfms",
+    "rejected"
+   ]
+  }
+ },
+ {
+  "path": "EFMSReport/CategoryWiseFtoGeneratedDetailsReport_New.aspx",
+  "slug": "f10-categorywiseftogenerateddetailsreport-new",
+  "code": "F.10",
+  "title": "Category wise FTO Generated Details",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlGenSan",
+    "key": "gen_san",
+    "options": [
+     [
+      "Generated",
+      "As per Generated Financial Year"
+     ],
+     [
+      "Sanctioned",
+      "As per Sanctioned Financial Year"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ],
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "PMAYG",
+      "PRADHAN MANTRI AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "INC",
+      "IAY NEW CONSTRUCTION"
+     ],
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES"
+     ],
+     [
+      "SP_PTG1718",
+      "PRIMITIVE TRIBAL GROUP 1718"
+     ],
+     [
+      "ALLSS",
+      "ALL STATE SCHEMES"
+     ],
+     [
+      "AJAY",
+      "AADIM JAMATI AWAAS YOJANA"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ABKAYG",
+      "ATAL BANDHKAM KAMGAR AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "BBS",
+      "BATHROOM BANDHKAM SAHAY"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI LADLI BAHNA AWAAS YOJANA"
+     ],
+     [
+      "MMAYG",
+      "MUKHYA MANTRI AWAAS YOJANA GRAMIN (UP)"
+     ],
+     [
+      "MMGASY",
+      "MUKHYAMANTRI GRAMIN AWAAS SAHAYATA YOJANA"
+     ],
+     [
+      "MMGAY",
+      "MUKHYAMANTRI GRAMIN AWAAS YOJANA"
+     ],
+     [
+      "MMPS",
+      "MUKHYA MANTRI PROTSAHAK SAHAY"
+     ],
+     [
+      "MWSKSY",
+      "MUKHYAMANTRI WAAS STHAL KRAY SAHAYATA YOJANA"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "NC2023",
+      "NATURAL CALAMITIES 2023"
+     ],
+     [
+      "NC2025",
+      "Natural calamities(floods)"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "PMAYG-State-TOPUP",
+      "PMAYG State TOPUP"
+     ],
+     [
+      "StateTopup",
+      "PMAYG-STATE-TOPUP"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SSFAA_2223",
+      "SPECIAL SCHEME FLOOD AFFECTED AREA"
+     ],
+     [
+      "SST_2223",
+      "SPECIAL PROJECT NLFT(SD)"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "FANI",
+      "Special Scheme Fani"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ],
+     [
+      "YCMVY",
+      "YASHWANTRAO CHAVAN MUKT VASAHAT YOJANA"
+     ],
+     [
+      "YGY",
+      "YASHWANT GHARKUL YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 36,
+   "columns": [
+    "s_no_and_state_name_details_sno",
+    "s_no_and_state_name_details_state_name",
+    "c_1st_installment_no_of_files_files",
+    "c_1st_installment_no_of_beneficiaries_sc",
+    "c_1st_installment_no_of_beneficiaries_st",
+    "c_1st_installment_no_of_beneficiaries_minority",
+    "c_1st_installment_no_of_beneficiaries_others",
+    "c_1st_installment_no_of_beneficiaries_total",
+    "c_2nd_installment_no_of_files_files",
+    "c_2nd_installment_no_of_beneficiaries_sc",
+    "c_2nd_installment_no_of_beneficiaries_st",
+    "c_2nd_installment_no_of_beneficiaries_minority",
+    "c_2nd_installment_no_of_beneficiaries_others",
+    "c_2nd_installment_no_of_beneficiaries_total",
+    "c_3rd_installment_no_of_files_files",
+    "c_3rd_installment_no_of_beneficiaries_sc",
+    "c_3rd_installment_no_of_beneficiaries_st",
+    "c_3rd_installment_no_of_beneficiaries_minority",
+    "c_3rd_installment_no_of_beneficiaries_others",
+    "c_3rd_installment_no_of_beneficiaries_total",
+    "c_4th_installment_no_of_files_files",
+    "c_4th_installment_no_of_beneficiaries_sc",
+    "c_4th_installment_no_of_beneficiaries_st",
+    "c_4th_installment_no_of_beneficiaries_minority",
+    "c_4th_installment_no_of_beneficiaries_others",
+    "c_4th_installment_no_of_beneficiaries_total"
+   ]
+  }
+ },
+ {
+  "path": "EFMSReport/DSCEnrollmentStatus_Report_New.aspx",
+  "slug": "f1-dscenrollmentstatus-report-new",
+  "code": "F.1",
+  "title": "DSC Enrollment Status",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddltype",
+    "key": "type",
+    "options": [
+     [
+      "Admin",
+      "Admin"
+     ],
+     [
+      "Normal",
+      "Normal"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlsign",
+    "key": "sign",
+    "options": [
+     [
+      "1",
+      "1st Signatory"
+     ],
+     [
+      "2",
+      "2nd Signatory"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 31,
+   "columns": [
+    "sno",
+    "state_name",
+    "level",
+    "total_block_district_state",
+    "registered",
+    "yet_to_register",
+    "enrolled",
+    "yet_to_enroll",
+    "active",
+    "yet_to_be_activated"
+   ]
+  }
+ },
+ {
+  "path": "EFMSReport/DuplicateAccountFtoReport.aspx",
+  "slug": "f5-duplicateaccountftoreport",
+  "code": "F.5",
+  "title": "Accounts for which same installment payment initiated twice",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ],
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "PMAYG",
+      "PRADHAN MANTRI AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "INC",
+      "IAY NEW CONSTRUCTION"
+     ],
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES"
+     ],
+     [
+      "SP_PTG1718",
+      "PRIMITIVE TRIBAL GROUP 1718"
+     ],
+     [
+      "ALLSS",
+      "ALL STATE SCHEMES"
+     ],
+     [
+      "AJAY",
+      "AADIM JAMATI AWAAS YOJANA"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ABKAYG",
+      "ATAL BANDHKAM KAMGAR AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "BBS",
+      "BATHROOM BANDHKAM SAHAY"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI LADLI BAHNA AWAAS YOJANA"
+     ],
+     [
+      "MMAYG",
+      "MUKHYA MANTRI AWAAS YOJANA GRAMIN (UP)"
+     ],
+     [
+      "MMGASY",
+      "MUKHYAMANTRI GRAMIN AWAAS SAHAYATA YOJANA"
+     ],
+     [
+      "MMGAY",
+      "MUKHYAMANTRI GRAMIN AWAAS YOJANA"
+     ],
+     [
+      "MMPS",
+      "MUKHYA MANTRI PROTSAHAK SAHAY"
+     ],
+     [
+      "MWSKSY",
+      "MUKHYAMANTRI WAAS STHAL KRAY SAHAYATA YOJANA"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "NC2023",
+      "NATURAL CALAMITIES 2023"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "PMAYG-State-TOPUP",
+      "PMAYG State TOPUP"
+     ],
+     [
+      "StateTopup",
+      "PMAYG-STATE-TOPUP"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SSFAA_2223",
+      "SPECIAL SCHEME FLOOD AFFECTED AREA"
+     ],
+     [
+      "SST_2223",
+      "SPECIAL PROJECT NLFT(SD)"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "FANI",
+      "Special Scheme Fani"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ],
+     [
+      "YCMVY",
+      "YASHWANTRAO CHAVAN MUKT VASAHAT YOJANA"
+     ],
+     [
+      "YGY",
+      "YASHWANT GHARKUL YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "state",
+    "no_of_accounts"
+   ]
+  }
+ },
+ {
+  "path": "EFMSReport/Duplicate_regno_fto_detail_report.aspx",
+  "slug": "f6-duplicate-regno-fto-detail-report",
+  "code": "F.6",
+  "title": "Beneficiaries for whom same installment payment initiated twice",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ],
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "PMAYG",
+      "PRADHAN MANTRI AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "INC",
+      "IAY NEW CONSTRUCTION"
+     ],
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES"
+     ],
+     [
+      "SP_PTG1718",
+      "PRIMITIVE TRIBAL GROUP 1718"
+     ],
+     [
+      "ALLSS",
+      "ALL STATE SCHEMES"
+     ],
+     [
+      "AJAY",
+      "AADIM JAMATI AWAAS YOJANA"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ABKAYG",
+      "ATAL BANDHKAM KAMGAR AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "BBS",
+      "BATHROOM BANDHKAM SAHAY"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI LADLI BAHNA AWAAS YOJANA"
+     ],
+     [
+      "MMAYG",
+      "MUKHYA MANTRI AWAAS YOJANA GRAMIN (UP)"
+     ],
+     [
+      "MMGASY",
+      "MUKHYAMANTRI GRAMIN AWAAS SAHAYATA YOJANA"
+     ],
+     [
+      "MMGAY",
+      "MUKHYAMANTRI GRAMIN AWAAS YOJANA"
+     ],
+     [
+      "MMPS",
+      "MUKHYA MANTRI PROTSAHAK SAHAY"
+     ],
+     [
+      "MWSKSY",
+      "MUKHYAMANTRI WAAS STHAL KRAY SAHAYATA YOJANA"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "NC2023",
+      "NATURAL CALAMITIES 2023"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "PMAYG-State-TOPUP",
+      "PMAYG State TOPUP"
+     ],
+     [
+      "StateTopup",
+      "PMAYG-STATE-TOPUP"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SSFAA_2223",
+      "SPECIAL SCHEME FLOOD AFFECTED AREA"
+     ],
+     [
+      "SST_2223",
+      "SPECIAL PROJECT NLFT(SD)"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "FANI",
+      "Special Scheme Fani"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ],
+     [
+      "YCMVY",
+      "YASHWANTRAO CHAVAN MUKT VASAHAT YOJANA"
+     ],
+     [
+      "YGY",
+      "YASHWANT GHARKUL YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "state",
+    "no_of_registrations"
+   ]
+  }
+ },
+ {
+  "path": "EFMSReport/FtoTransactionSummaryReport.aspx",
+  "slug": "f4-ftotransactionsummaryreport",
+  "code": "F.4",
+  "title": "FTO transaction summary",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlGenSan",
+    "key": "gen_san",
+    "options": [
+     [
+      "Generated",
+      "As per Generated Financial Year"
+     ],
+     [
+      "Sanctioned",
+      "As per Sanctioned Financial Year"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ],
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "PMAYG",
+      "PRADHAN MANTRI AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "INC",
+      "IAY NEW CONSTRUCTION"
+     ],
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES"
+     ],
+     [
+      "SP_PTG1718",
+      "PRIMITIVE TRIBAL GROUP 1718"
+     ],
+     [
+      "ALLSS",
+      "ALL STATE SCHEMES"
+     ],
+     [
+      "AJAY",
+      "AADIM JAMATI AWAAS YOJANA"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ABKAYG",
+      "ATAL BANDHKAM KAMGAR AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "BBS",
+      "BATHROOM BANDHKAM SAHAY"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI LADLI BAHNA AWAAS YOJANA"
+     ],
+     [
+      "MMAYG",
+      "MUKHYA MANTRI AWAAS YOJANA GRAMIN (UP)"
+     ],
+     [
+      "MMGASY",
+      "MUKHYAMANTRI GRAMIN AWAAS SAHAYATA YOJANA"
+     ],
+     [
+      "MMGAY",
+      "MUKHYAMANTRI GRAMIN AWAAS YOJANA"
+     ],
+     [
+      "MMPS",
+      "MUKHYA MANTRI PROTSAHAK SAHAY"
+     ],
+     [
+      "MWSKSY",
+      "MUKHYAMANTRI WAAS STHAL KRAY SAHAYATA YOJANA"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "NC2023",
+      "NATURAL CALAMITIES 2023"
+     ],
+     [
+      "NC2025",
+      "Natural calamities(floods)"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "PMAYG-State-TOPUP",
+      "PMAYG State TOPUP"
+     ],
+     [
+      "StateTopup",
+      "PMAYG-STATE-TOPUP"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SSFAA_2223",
+      "SPECIAL SCHEME FLOOD AFFECTED AREA"
+     ],
+     [
+      "SST_2223",
+      "SPECIAL PROJECT NLFT(SD)"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "FANI",
+      "Special Scheme Fani"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ],
+     [
+      "YCMVY",
+      "YASHWANTRAO CHAVAN MUKT VASAHAT YOJANA"
+     ],
+     [
+      "YGY",
+      "YASHWANT GHARKUL YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "state_name",
+    "fto_generated_total_no_of_fto_generated",
+    "fto_generated_no_of_beneficiaries",
+    "fto_generated_amount_in_lakhs",
+    "fto_signed_total_no_of_fto_signed",
+    "fto_signed_no_of_beneficiaries",
+    "fto_signed_amount_in_lakhs",
+    "fto_verified_total_no_of_fto_verified",
+    "fto_verified_no_of_beneficiaries",
+    "fto_verified_amount_in_lakhs",
+    "fto_pending_with_pfms_no_of_pending_with_pfms",
+    "fto_pending_with_pfms_no_of_beneficiaries",
+    "fto_pending_with_pfms_amount_in_lakhs",
+    "fto_sent_to_bank_no_of_sent_to_bank",
+    "fto_sent_to_bank_no_of_beneficiaries",
+    "fto_sent_to_bank_amount_in_lakhs",
+    "credit_confirmation_received_no_of_credit_confirmation",
+    "credit_confirmation_received_no_of_beneficiaries",
+    "credit_confirmation_received_amount_in_lakhs"
+   ]
+  }
+ },
+ {
+  "path": "EFMSReport/GeneratedFTOHeadSubHeadWiseReport1.aspx",
+  "slug": "generatedftoheadsubheadwisereport1",
+  "code": "",
+  "title": "Administrative head wise admin fund transaction",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlLevel",
+    "key": "filter_level",
+    "options": [
+     [
+      "1",
+      "All Levels"
+     ],
+     [
+      "2",
+      "State"
+     ],
+     [
+      "3",
+      "District"
+     ],
+     [
+      "4",
+      "Block"
+     ]
+    ]
+   }
+  ],
+  "states": null,
+  "all_states": null,
+  "check": {
+   "http": 200,
+   "rows": 1,
+   "columns": [
+    "sno",
+    "state_name",
+    "agency_services_fto_generated_agency",
+    "agency_services_credit_confirmation_agency",
+    "audit_fto_generated_audit",
+    "audit_credit_confirmation_audit",
+    "evaluation_and_research_fto_generated_er",
+    "evaluation_and_research_credit_confirmation_er",
+    "iec_activities_fto_generated_iec",
+    "iec_activities_credit_confirmation_iec",
+    "it_systems_fto_generated_it",
+    "it_systems_credit_confirmation_it",
+    "office_set_up_fto_generated_osu",
+    "office_set_up_credit_confirmation_osu",
+    "remuneration_and_honorarium_fto_generated_rah",
+    "remuneration_and_honorarium_credit_confirmation_rah",
+    "rural_mason_fto_generated_rural_mason",
+    "rural_mason_credit_confirmation_rural_mason",
+    "training_fto_generated_training",
+    "training_credit_confirmation_training",
+    "travel_fto_generated_travel",
+    "travel_credit_confirmation_travel"
+   ]
+  }
+ },
+ {
+  "path": "EFMSReport/IAYFTOInstallmentWiseReport.aspx",
+  "slug": "d1-iayftoinstallmentwisereport",
+  "code": "D.1",
+  "title": "Installment Wise FTO Transaction Summary",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlGenSan",
+    "key": "gen_san",
+    "options": [
+     [
+      "Generated",
+      "As per Generated Financial Year"
+     ],
+     [
+      "Sanctioned",
+      "As per Sanctioned Financial Year"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ],
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "INC",
+      "IAY NEW CONSTRUCTION"
+     ],
+     [
+      "INCSP",
+      "IAY & Special project houses"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 36,
+   "columns": [
+    "sno",
+    "state_name",
+    "fto_generated_for_1st_installment_fto",
+    "fto_generated_for_1st_installment_beneficiaries",
+    "fto_generated_for_1st_installment_amount_in_lakhs",
+    "fto_generated_for_2nd_installment_fto",
+    "fto_generated_for_2nd_installment_beneficiaries",
+    "fto_generated_for_2nd_installment_amount_in_lakhs",
+    "fto_generated_for_3rd_installment_fto",
+    "fto_generated_for_3rd_installment_beneficiaries",
+    "fto_generated_for_3rd_installment_amount_in_lakhs",
+    "fto_generated_for_4th_installment_fto",
+    "fto_generated_for_4th_installment_beneficiaries",
+    "fto_generated_for_4th_installment_amount_in_lakhs",
+    "fto_signed_for_1st_installment_fto",
+    "fto_signed_for_1st_installment_beneficiaries",
+    "fto_signed_for_1st_installment_amount_in_lakhs",
+    "fto_signed_for_2nd_installment_fto",
+    "fto_signed_for_2nd_installment_beneficiaries",
+    "fto_signed_for_2nd_installment_amount_in_lakhs",
+    "fto_signed_for_3rd_installment_fto",
+    "fto_signed_for_3rd_installment_beneficiaries",
+    "fto_signed_for_3rd_installment_amount_in_lakhs",
+    "fto_signed_for_4th_installment_fto",
+    "fto_signed_for_4th_installment_beneficiaries",
+    "fto_signed_for_4th_installment_amount_in_lakhs",
+    "fto_verified_for_1st_installment_fto",
+    "fto_verified_for_1st_installment_beneficiaries",
+    "fto_verified_for_1st_installment_amount_in_lakhs",
+    "fto_verified_for_2nd_installment_fto",
+    "fto_verified_for_2nd_installment_beneficiaries",
+    "fto_verified_for_2nd_installment_amount_in_lakhs",
+    "fto_verified_for_3rd_installment_fto",
+    "fto_verified_for_3rd_installment_beneficiaries",
+    "fto_verified_for_3rd_installment_amount_in_lakhs",
+    "fto_verified_for_4th_installment_fto",
+    "fto_verified_for_4th_installment_beneficiaries",
+    "fto_verified_for_4th_installment_amount_in_lakhs",
+    "fto_pending_with_pfms_for_1st_installment_fto",
+    "fto_pending_with_pfms_for_1st_installment_beneficiaries",
+    "fto_pending_with_pfms_for_1st_installment_amount_in_lakhs",
+    "fto_pending_with_pfms_for_2nd_installment_fto",
+    "fto_pending_with_pfms_for_2nd_installment_beneficiaries",
+    "fto_pending_with_pfms_for_2nd_installment_amount_in_lakhs",
+    "fto_pending_with_pfms_for_3rd_installment_fto",
+    "fto_pending_with_pfms_for_3rd_installment_beneficiaries",
+    "fto_pending_with_pfms_for_3rd_installment_amount_in_lakhs",
+    "fto_pending_with_pfms_for_4th_installment_fto",
+    "fto_pending_with_pfms_for_4th_installment_beneficiaries",
+    "fto_pending_with_pfms_for_4th_installment_amount_in_lakhs",
+    "fto_sent_to_bank_for_1st_installment_fto",
+    "fto_sent_to_bank_for_1st_installment_beneficiaries",
+    "fto_sent_to_bank_for_1st_installment_amount_in_lakhs",
+    "fto_sent_to_bank_for_2nd_installment_fto",
+    "fto_sent_to_bank_for_2nd_installment_beneficiaries",
+    "fto_sent_to_bank_for_2nd_installment_amount_in_lakhs",
+    "fto_sent_to_bank_for_3rd_installment_fto",
+    "fto_sent_to_bank_for_3rd_installment_beneficiaries",
+    "fto_sent_to_bank_for_3rd_installment_amount_in_lakhs",
+    "fto_sent_to_bank_for_4th_installment_fto",
+    "fto_sent_to_bank_for_4th_installment_beneficiaries",
+    "fto_sent_to_bank_for_4th_installment_amount_in_lakhs",
+    "credit_confirmation_received_for_1st_installment_fto",
+    "credit_confirmation_received_for_1st_installment_beneficiari",
+    "credit_confirmation_received_for_1st_installment_amount_in_l",
+    "credit_confirmation_received_for_2nd_installment_fto",
+    "credit_confirmation_received_for_2nd_installment_beneficiari",
+    "credit_confirmation_received_for_2nd_installment_amount_in_l",
+    "credit_confirmation_received_for_3rd_installment_fto",
+    "credit_confirmation_received_for_3rd_installment_beneficiari",
+    "credit_confirmation_received_for_3rd_installment_amount_in_l",
+    "credit_confirmation_received_for_4th_installment_fto",
+    "credit_confirmation_received_for_4th_installment_beneficiari",
+    "credit_confirmation_received_for_4th_installment_amount_in_l"
+   ]
+  }
+ },
+ {
+  "path": "EFMSReport/Payment_RejectedbyBank.aspx",
+  "slug": "f7-payment-rejectedbybank",
+  "code": "F.7",
+  "title": "Payments rejected by bank",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlInstalment",
+    "key": "instalment",
+    "options": [
+     [
+      "1stInstallment",
+      "1st Installment"
+     ],
+     [
+      "2stInstallment",
+      "2nd Installment"
+     ],
+     [
+      "3stInstallment",
+      "3rd Installment"
+     ],
+     [
+      "4stInstallment",
+      "4th Installment"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "PMAYG",
+      "PRADHAN MANTRI AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "INC",
+      "IAY NEW CONSTRUCTION"
+     ],
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES"
+     ],
+     [
+      "SP_PTG1718",
+      "PRIMITIVE TRIBAL GROUP 1718"
+     ],
+     [
+      "ALLSS",
+      "ALL STATE SCHEMES"
+     ],
+     [
+      "AJAY",
+      "AADIM JAMATI AWAAS YOJANA"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ABKAYG",
+      "ATAL BANDHKAM KAMGAR AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "BBS",
+      "BATHROOM BANDHKAM SAHAY"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI LADLI BAHNA AWAAS YOJANA"
+     ],
+     [
+      "MMAYG",
+      "MUKHYA MANTRI AWAAS YOJANA GRAMIN (UP)"
+     ],
+     [
+      "MMGASY",
+      "MUKHYAMANTRI GRAMIN AWAAS SAHAYATA YOJANA"
+     ],
+     [
+      "MMGAY",
+      "MUKHYAMANTRI GRAMIN AWAAS YOJANA"
+     ],
+     [
+      "MMPS",
+      "MUKHYA MANTRI PROTSAHAK SAHAY"
+     ],
+     [
+      "MWSKSY",
+      "MUKHYAMANTRI WAAS STHAL KRAY SAHAYATA YOJANA"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "NC2023",
+      "NATURAL CALAMITIES 2023"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "PMAYG-State-TOPUP",
+      "PMAYG State TOPUP"
+     ],
+     [
+      "StateTopup",
+      "PMAYG-STATE-TOPUP"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SSFAA_2223",
+      "SPECIAL SCHEME FLOOD AFFECTED AREA"
+     ],
+     [
+      "SST_2223",
+      "SPECIAL PROJECT NLFT(SD)"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "FANI",
+      "Special Scheme Fani"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ],
+     [
+      "YCMVY",
+      "YASHWANTRAO CHAVAN MUKT VASAHAT YOJANA"
+     ],
+     [
+      "YGY",
+      "YASHWANT GHARKUL YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 32,
+   "columns": [
+    "sno",
+    "state_name",
+    "payments_rejected_by_bank"
+   ]
+  }
+ },
+ {
+  "path": "EFMSReport/SNASparsh_FtoTransactionSummaryReport.aspx",
+  "slug": "snasparsh-ftotransactionsummaryreport",
+  "code": "",
+  "title": "SNA Sparsh FTO transaction summary",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlGenSan",
+    "key": "gen_san",
+    "options": [
+     [
+      "Generated",
+      "As per Generated Financial Year"
+     ],
+     [
+      "Sanctioned",
+      "As per Sanctioned Financial Year"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "PMAYG",
+      "PRADHAN MANTRI AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "INC",
+      "IAY NEW CONSTRUCTION"
+     ],
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES"
+     ],
+     [
+      "SP_PTG1718",
+      "PRIMITIVE TRIBAL GROUP 1718"
+     ],
+     [
+      "ALLSS",
+      "ALL STATE SCHEMES"
+     ],
+     [
+      "AJAY",
+      "AADIM JAMATI AWAAS YOJANA"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ABKAYG",
+      "ATAL BANDHKAM KAMGAR AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "BBS",
+      "BATHROOM BANDHKAM SAHAY"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI LADLI BAHNA AWAAS YOJANA"
+     ],
+     [
+      "MMAYG",
+      "MUKHYA MANTRI AWAAS YOJANA GRAMIN (UP)"
+     ],
+     [
+      "MMGASY",
+      "MUKHYAMANTRI GRAMIN AWAAS SAHAYATA YOJANA"
+     ],
+     [
+      "MMGAY",
+      "MUKHYAMANTRI GRAMIN AWAAS YOJANA"
+     ],
+     [
+      "MMPS",
+      "MUKHYA MANTRI PROTSAHAK SAHAY"
+     ],
+     [
+      "MWSKSY",
+      "MUKHYAMANTRI WAAS STHAL KRAY SAHAYATA YOJANA"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "NC2023",
+      "NATURAL CALAMITIES 2023"
+     ],
+     [
+      "NC2025",
+      "Natural calamities(floods)"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "PMAYG-State-TOPUP",
+      "PMAYG State TOPUP"
+     ],
+     [
+      "StateTopup",
+      "PMAYG-STATE-TOPUP"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SSFAA_2223",
+      "SPECIAL SCHEME FLOOD AFFECTED AREA"
+     ],
+     [
+      "SST_2223",
+      "SPECIAL PROJECT NLFT(SD)"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "FANI",
+      "Special Scheme Fani"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ],
+     [
+      "YCMVY",
+      "YASHWANTRAO CHAVAN MUKT VASAHAT YOJANA"
+     ],
+     [
+      "YGY",
+      "YASHWANT GHARKUL YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 28,
+   "columns": [
+    "sno",
+    "state_name",
+    "fto_generated_total_no_of_fto_generated",
+    "fto_generated_no_of_beneficiaries",
+    "fto_generated_amount_in_lakhs",
+    "fto_signed_total_no_of_fto_signed",
+    "fto_signed_no_of_beneficiaries",
+    "fto_signed_amount_in_lakhs",
+    "fto_verified_total_no_of_fto_verified",
+    "fto_verified_no_of_beneficiaries",
+    "fto_verified_amount_in_lakhs",
+    "fto_pending_with_ifmis_no_of_pending_with_ifmis",
+    "fto_pending_with_ifmis_no_of_beneficiaries",
+    "fto_pending_with_ifmis_amount_in_lakhs",
+    "fto_sent_to_ifmis_and_acknowledgement_has_been_received_from",
+    "fto_sent_to_ifmis_and_acknowledgement_has_been_received_from_2",
+    "fto_sent_to_ifmis_and_acknowledgement_has_been_received_from_3",
+    "credit_confirmation_received_no_of_credit_confirmation",
+    "credit_confirmation_received_no_of_beneficiaries",
+    "credit_confirmation_received_amount_in_lakhs"
+   ]
+  }
+ },
+ {
+  "path": "FinancialProgressReport/Allocation_PhaseWiseReport.aspx",
+  "slug": "b1-allocation-phasewisereport",
+  "code": "B.1",
+  "title": "Annual target and allocation report",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ],
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ],
+     [
+      "ALLPMAYG",
+      "PMAYG Cumulative progress till date"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "PMAYG",
+      "PRADHAN MANTRI AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES (IAY+PMAY-G)"
+     ],
+     [
+      "ALLSS",
+      "ALL STATE SCHEMES"
+     ],
+     [
+      "AJAY",
+      "AADIM JAMATI AWAAS YOJANA"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ABKAYG",
+      "ATAL BANDHKAM KAMGAR AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICMAY",
+      "CHIEF MINISTER BPL AWAAS YOJANA"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "LGAY",
+      "LOHIA GRAMIN AWAS YOJANA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI LADLI BAHNA AWAAS YOJANA"
+     ],
+     [
+      "MMAYG",
+      "MUKHYA MANTRI AWAAS YOJANA GRAMIN (UP)"
+     ],
+     [
+      "MMGASY",
+      "MUKHYAMANTRI GRAMIN AWAAS SAHAYATA YOJANA"
+     ],
+     [
+      "MMGAY",
+      "MUKHYAMANTRI GRAMIN AWAAS YOJANA"
+     ],
+     [
+      "MWSKSY",
+      "MUKHYAMANTRI WAAS STHAL KRAY SAHAYATA YOJANA"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "NC2023",
+      "NATURAL CALAMITIES 2023"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "SP_PTG1718",
+      "PRIMITIVE TRIBAL GROUP 1718"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SSFAA_2223",
+      "SPECIAL SCHEME FLOOD AFFECTED AREA"
+     ],
+     [
+      "SST_2223",
+      "SPECIAL PROJECT NLFT(SD)"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "FANI",
+      "Special Scheme Fani"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ],
+     [
+      "YCMVY",
+      "YASHWANTRAO CHAVAN MUKT VASAHAT YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "state_name",
+    "mord_target",
+    "central_allocation",
+    "state_allocation"
+   ]
+  }
+ },
+ {
+  "path": "FinancialProgressReport/FinancialReport.aspx",
+  "slug": "financialreport",
+  "code": "",
+  "title": "Financial Statement",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ]
+    ]
+   }
+  ],
+  "states": null,
+  "all_states": null,
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "state_name",
+    "opening_balance_bank_statement_a",
+    "central_release_b",
+    "actual_state_release_c",
+    "total_miscellaneous_d",
+    "interest_accrued_e",
+    "total_credit_total_f_a_b_c_d_e",
+    "total_credit_program_fund_g",
+    "total_credit_admin_fund_h",
+    "expenditure_fto_with_credit_confirmation_total_i",
+    "expenditure_fto_with_credit_confirmation_program_fund_j",
+    "expenditure_fto_with_credit_confirmation_admin_fund_k",
+    "balance_in_state_nodal_account_total_l_f_i",
+    "balance_in_state_nodal_account_program_fund_m_g_j",
+    "balance_in_state_nodal_account_admin_fund_n_h_k"
+   ]
+  }
+ },
+ {
+  "path": "FinancialProgressReport/IAYUnitAssistance_InstallmentDetails.aspx",
+  "slug": "b2-iayunitassistance-installmentdetails",
+  "code": "B.2",
+  "title": "Unit assistance and installment details",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "INC",
+      "IAY NEW CONSTRUCTION"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_PTG1718",
+      "PRIMITIVE TRIBAL GROUP 1718"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ]
+    ]
+   }
+  ],
+  "states": null,
+  "all_states": null,
+  "check": {
+   "http": 200,
+   "rows": 0,
+   "columns": []
+  }
+ },
+ {
+  "path": "FinancialProgressReport/IAY_Allocation_PhaseWiseReport.aspx",
+  "slug": "b1-iay-allocation-phasewisereport",
+  "code": "B.1",
+  "title": "Annual target and allocation report",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "INC",
+      "IAY NEW CONSTRUCTION"
+     ],
+     [
+      "INCSP",
+      "IAY & Special project houses"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 36,
+   "columns": [
+    "sno",
+    "state_name",
+    "mord_target",
+    "central_allocation",
+    "state_allocation"
+   ]
+  }
+ },
+ {
+  "path": "FinancialProgressReport/IAY_Report_HighLevel_FinancialProgress.aspx",
+  "slug": "b3-iay-report-highlevel-financialprogress",
+  "code": "B.3",
+  "title": "High level financial progress report",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "INC",
+      "IAY NEW CONSTRUCTION"
+     ],
+     [
+      "INCSP",
+      "IAY & Special project houses"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 36,
+   "columns": [
+    "sno",
+    "state_name",
+    "opening_balance",
+    "allocation_of_funds_including_admin_expenses_central",
+    "allocation_of_funds_including_admin_expenses_state",
+    "allocation_of_funds_including_admin_expenses_total",
+    "fund_releases_central",
+    "fund_releases_state",
+    "fund_releases_total",
+    "total_available_funds",
+    "utilization_of_funds",
+    "percentage_utilization"
+   ]
+  }
+ },
+ {
+  "path": "FinancialProgressReport/Report_FTOUtilizedFund.aspx",
+  "slug": "b4-report-ftoutilizedfund",
+  "code": "B.4",
+  "title": "Available fund as per MIS",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2015-2016",
+      "2015-2016"
+     ],
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES(IAY+PMAY-G)"
+     ],
+     [
+      "AJAY",
+      "AADIM JAMATI AWAAS YOJANA"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICMAY",
+      "CHIEF MINISTER BPL AWAAS YOJANA"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "LGAY",
+      "LOHIA GRAMIN AWAS YOJANA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI JAN AWAAS YOJANA"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "YGY",
+      "YASHWANT GHARKUL YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": null,
+  "all_states": null,
+  "check": {
+   "http": 200,
+   "rows": 36,
+   "columns": [
+    "sno",
+    "state",
+    "total_available_fund",
+    "payments_initiated_through_fto",
+    "fund_utilized_credit_confirmed",
+    "balance_funds_in_sna",
+    "fto_generation_limit_value"
+   ]
+  }
+ },
+ {
+  "path": "FinancialProgressReport/Report_HighLevel_FinancialProgress.aspx",
+  "slug": "b3-report-highlevel-financialprogress",
+  "code": "B.3",
+  "title": "High level financial progress report",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ],
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022- 2023"
+     ],
+     [
+      "2023-2024",
+      "2023- 2024"
+     ],
+     [
+      "2024-2025",
+      "2024- 2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "PMAYG",
+      "PRADHAN MANTRI AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES (IAY+PMAY-G)"
+     ],
+     [
+      "ALLSS",
+      "ALL STATE SCHEMES"
+     ],
+     [
+      "AJAY",
+      "AADIM JAMATI AWAAS YOJANA"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ABKAYG",
+      "ATAL BANDHKAM KAMGAR AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICMAY",
+      "CHIEF MINISTER BPL AWAAS YOJANA"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "LGAY",
+      "LOHIA GRAMIN AWAS YOJANA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI LADLI BAHNA AWAAS YOJANA"
+     ],
+     [
+      "MMAYG",
+      "MUKHYA MANTRI AWAAS YOJANA GRAMIN (UP)"
+     ],
+     [
+      "MMGASY",
+      "MUKHYAMANTRI GRAMIN AWAAS SAHAYATA YOJANA"
+     ],
+     [
+      "MMGAY",
+      "MUKHYAMANTRI GRAMIN AWAAS YOJANA"
+     ],
+     [
+      "MWSKSY",
+      "MUKHYAMANTRI WAAS STHAL KRAY SAHAYATA YOJANA"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "NC2023",
+      "NATURAL CALAMITIES 2023"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "SP_PTG1718",
+      "PRIMITIVE TRIBAL GROUP 1718"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SSFAA_2223",
+      "SPECIAL SCHEME FLOOD AFFECTED AREA"
+     ],
+     [
+      "SST_2223",
+      "SPECIAL PROJECT NLFT(SD)"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "FANI",
+      "Special Scheme Fani"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ],
+     [
+      "YCMVY",
+      "YASHWANTRAO CHAVAN MUKT VASAHAT YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 36,
+   "columns": [
+    "sno",
+    "state_name",
+    "opening_balance",
+    "allocation_of_funds_including_admin_expenses_central",
+    "allocation_of_funds_including_admin_expenses_state",
+    "allocation_of_funds_including_admin_expenses_total",
+    "fund_releases_central",
+    "fund_releases_state",
+    "fund_releases_total",
+    "total_available_funds",
+    "utilization_of_funds",
+    "percentage_utilization"
+   ]
+  }
+ },
+ {
+  "path": "FinancialProgressReport/UnitAssistance_InstallmentDetails.aspx",
+  "slug": "b2-unitassistance-installmentdetails",
+  "code": "B.2",
+  "title": "Unit assistance and installment details",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2026-2027",
+      "2026-2027"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "PMAYG",
+      "PRADHAN MANTRI AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES (IAY+PMAY-G)"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ABKAYG",
+      "ATAL BANDHKAM KAMGAR AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICMAY",
+      "CHIEF MINISTER BPL AWAAS YOJANA"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "LGAY",
+      "LOHIA GRAMIN AWAS YOJANA"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI LADLI BAHNA AWAAS YOJANA"
+     ],
+     [
+      "MMGASY",
+      "MUKHYAMANTRI GRAMIN AWAAS SAHAYATA YOJANA"
+     ],
+     [
+      "MMGAY",
+      "MUKHYAMANTRI GRAMIN AWAAS YOJANA"
+     ],
+     [
+      "MWSKSY",
+      "MUKHYAMANTRI WAAS STHAL KRAY SAHAYATA YOJANA"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "NC2023",
+      "NATURAL CALAMITIES 2023"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SSFAA_2223",
+      "SPECIAL SCHEME FLOOD AFFECTED AREA"
+     ],
+     [
+      "SST_2223",
+      "SPECIAL PROJECT NLFT(SD)"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ],
+     [
+      "YCMVY",
+      "YASHWANTRAO CHAVAN MUKT VASAHAT YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": null,
+  "all_states": null,
+  "check": {
+   "http": 200,
+   "rows": 4,
+   "columns": [
+    "state_details_sno",
+    "state_details_state_name",
+    "unit_assistance_sanction_difficult_area",
+    "unit_assistance_sanction_plain_area",
+    "top_up_from_state_fund_difficult_area",
+    "top_up_from_state_fund_plain_area",
+    "total_sanction_amount_difficult_area",
+    "total_sanction_amount_plain_area",
+    "c_1st_installment_difficult_area",
+    "c_1st_installment_plain_area",
+    "c_1st_installment_installment_level",
+    "c_2st_installment_difficult_area",
+    "c_2st_installment_plain_area",
+    "c_2st_installment_installment_level",
+    "c_3st_installment_difficult_area",
+    "c_3st_installment_plain_area",
+    "c_3st_installment_installment_level",
+    "c_4st_installment_difficult_area",
+    "c_4st_installment_plain_area",
+    "c_4st_installment_installment_level",
+    "nba_sanction_difficult_area",
+    "nba_sanction_plain_area",
+    "house_model_type"
+   ]
+  }
+ },
+ {
+  "path": "JanmanReports/JanmanSummaryReport.aspx",
+  "slug": "janmansummaryreport",
+  "code": "",
+  "title": "Janman summary Report",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": null,
+  "all_states": null,
+  "check": {
+   "http": 200,
+   "rows": 21,
+   "columns": [
+    "sno",
+    "state_name",
+    "villages_shared_by_mota",
+    "villages_shared_by_state",
+    "total_villages_in_awaasplus"
+   ]
+  }
+ },
+ {
+  "path": "JanmanReports/JanmanSurveyProgressDataReport.aspx",
+  "slug": "janmansurveyprogressdatareport",
+  "code": "",
+  "title": "Janman Progress Report",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 21,
+   "columns": [
+    "sno",
+    "state_name",
+    "total_hhs_surveyed",
+    "total_hh_pending_for_exclusion_criteria",
+    "rejected_by_system_pucca_house",
+    "rejected_by_system_govt_job",
+    "total_rejected_by_system_pucca_house_govt_job",
+    "remaining_eligible",
+    "total_registered",
+    "total_jobcard_verified_out_of_registered",
+    "total_aadhaar_verified_out_of_registered",
+    "total_jobcard_and_aadhaar_verified_out_of_registered",
+    "total_geotagged_approved",
+    "total_sanctioned",
+    "total_jobcard_verified_against_sanctioned",
+    "total_aadhaar_verified_against_sanctioned",
+    "total_jobcard_and_aadhaar_verified_against_sanctioned",
+    "account_aadhaar_verified_out_of_registered",
+    "account_aadhaar_verified_against_sanctioned",
+    "ordersheet_generated_for_1st_installment",
+    "fto_generated_for_1st_installment",
+    "fto_1st_installment_first_sign",
+    "fto_1st_installment_second_sign",
+    "ordersheet_generated_for_2nd_installment",
+    "fto_generated_for_2nd_installment",
+    "fto_2nd_installment_first_sign",
+    "fto_2nd_installment_second_sign",
+    "ordersheet_generated_for_3rd_installment",
+    "fto_generated_for_3rd_installment",
+    "fto_3rd_installment_first_sign",
+    "fto_3rd_installment_second_sign",
+    "ordersheet_generated_for_4th_installment",
+    "fto_generated_for_4th_installment",
+    "fto_4th_installment_first_sign",
+    "fto_4th_installment_second_sign",
+    "first_installment_credited",
+    "second_installment_credited",
+    "third_installment_credited",
+    "fourth_installment_credited",
+    "completed"
+   ]
+  }
+ },
+ {
+  "path": "JanmanReports/JanmanSurveyStepWiseProgressDataReport.aspx",
+  "slug": "janmansurveystepwiseprogressdatareport",
+  "code": "",
+  "title": "Janman Tracker Report",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 19,
+   "columns": [
+    "sno",
+    "state_name",
+    "gps_where_survey_was_started",
+    "gps_where_survey_was_completed",
+    "gps_where_subcategory_caste_was_updated",
+    "gps_where_removal_of_household_was_completed",
+    "gps_where_gp_resolution_was_uploaded",
+    "gps_where_appellate_was_done"
+   ]
+  }
+ },
+ {
+  "path": "JanmanReports/JanmanVillageWiseSummaryReport.aspx",
+  "slug": "janmanvillagewisesummaryreport",
+  "code": "",
+  "title": "Janman village wise summary Report",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 21,
+   "columns": [
+    "sno",
+    "state_name",
+    "total_villages_shared_by_mota",
+    "villages_shared_by_mota_with_valid_lgd_codes",
+    "villages_shared_by_mota_with_invalid_lgd_codes",
+    "total_additional_villages_shared_by_state",
+    "additional_villages_shared_by_state_having_eligible_lgd_code",
+    "additional_villages_shared_by_state_having_invalid_lgd_codes",
+    "total_villages_visible_in_awaaplus"
+   ]
+  }
+ },
+ {
+  "path": "Janmanreports/JanmanRemandReport.aspx",
+  "slug": "janmanremandreport",
+  "code": "",
+  "title": "Janman remand and nrega job card Report",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 19,
+   "columns": [
+    "sno",
+    "state_name",
+    "total_hh_surveyed",
+    "total_hh_pending_for_exclusion_criteria",
+    "rejected_by_system_pucca_house",
+    "rejected_by_system_govt_job",
+    "total_rejected_by_system_pucca_house_govt_job",
+    "remaining_eligible",
+    "job_card_mapped",
+    "job_card_verified",
+    "job_card_not_mapped"
+   ]
+  }
+ },
+ {
+  "path": "PhysicalProgressReport/PhysicalProgresReport_SPPMAYG.aspx",
+  "slug": "a2-physicalprogresreport-sppmayg",
+  "code": "A.2",
+  "title": "House progress against the target financial year",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "ALLPMAYG",
+      "PMAYG Cumulative progress till date"
+     ],
+     [
+      "SPPMAYG",
+      "Special Projects(AwaasPlus 2024) Cumulative progress till date"
+     ],
+     [
+      "ALLSPPMAYG",
+      "Special Projects(SECC & AwaasPlus 2018) Cumulative progress till date"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 302,
+   "rows": 0,
+   "columns": []
+  }
+ },
+ {
+  "path": "PhysicalProgressReport/PhysicalProgressReport_SpecialProject.aspx",
+  "slug": "physicalprogressreport-specialproject",
+  "code": "",
+  "title": "Pradhan Mantri Awaas Yojana-Gramin",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ],
+     [
+      "ALLPMAYG",
+      "Special Projects Cumulative progress till date"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 36,
+   "columns": [
+    "sno",
+    "state_name",
+    "mord_target",
+    "target_fixed_by_states",
+    "registered",
+    "geo_tagged_out_of_registered",
+    "sanctions_out_of_geo_tagged",
+    "sanctions_with_verified_accounts",
+    "installment_1st",
+    "installment_2nd",
+    "installment_3rd",
+    "installment_4th",
+    "completed_and_verified",
+    "completed"
+   ]
+  }
+ },
+ {
+  "path": "PhysicalProgressReport/TargetfilledReport.aspx",
+  "slug": "a5-targetfilledreport",
+  "code": "A.5",
+  "title": "Gap in entry of Targets",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ],
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "PMAYG",
+      "PRADHAN MANTRI AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "INC",
+      "IAY NEW CONSTRUCTION"
+     ],
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES"
+     ],
+     [
+      "SP_PTG1718",
+      "PRIMITIVE TRIBAL GROUP 1718"
+     ],
+     [
+      "ALLSS",
+      "ALL STATE SCHEMES"
+     ],
+     [
+      "AJAY",
+      "AADIM JAMATI AWAAS YOJANA"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ABKAYG",
+      "ATAL BANDHKAM KAMGAR AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "BBS",
+      "BATHROOM BANDHKAM SAHAY"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI LADLI BAHNA AWAAS YOJANA"
+     ],
+     [
+      "MMAYG",
+      "MUKHYA MANTRI AWAAS YOJANA GRAMIN (UP)"
+     ],
+     [
+      "MMGASY",
+      "MUKHYAMANTRI GRAMIN AWAAS SAHAYATA YOJANA"
+     ],
+     [
+      "MMGAY",
+      "MUKHYAMANTRI GRAMIN AWAAS YOJANA"
+     ],
+     [
+      "MMPS",
+      "MUKHYA MANTRI PROTSAHAK SAHAY"
+     ],
+     [
+      "MWSKSY",
+      "MUKHYAMANTRI WAAS STHAL KRAY SAHAYATA YOJANA"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "NC2023",
+      "NATURAL CALAMITIES 2023"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "PMAYG-State-TOPUP",
+      "PMAYG State TOPUP"
+     ],
+     [
+      "StateTopup",
+      "PMAYG-STATE-TOPUP"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SSFAA_2223",
+      "SPECIAL SCHEME FLOOD AFFECTED AREA"
+     ],
+     [
+      "SST_2223",
+      "SPECIAL PROJECT NLFT(SD)"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "FANI",
+      "Special Scheme Fani"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ],
+     [
+      "YCMVY",
+      "YASHWANTRAO CHAVAN MUKT VASAHAT YOJANA"
+     ],
+     [
+      "YGY",
+      "YASHWANT GHARKUL YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "code",
+    "recorddatename",
+    "state_name",
+    "total_no_of_districts"
+   ]
+  }
+ },
+ {
+  "path": "PhysicalProgressReport/YearWsHsCompSchemePhaseWise_InterimRpt.aspx",
+  "slug": "a1-yearwshscompschemephasewise-interimrpt",
+  "code": "A.1",
+  "title": "Houses completed in a financial year(irrespective of target year)",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ],
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ],
+     [
+      "ALLCS",
+      "PMAYG Cumulative progress till date"
+     ],
+     [
+      "BACKWARD",
+      "PMAYG Cumulative progress for (117 Aspirational districts)"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 27,
+   "columns": [
+    "sno",
+    "state_name",
+    "houses_completed_of_2017_2018_and_prior",
+    "houses_completed_of_2018_2019",
+    "houses_completed_of_2019_2020",
+    "houses_completed_of_2020_2021",
+    "houses_completed_of_2021_2022",
+    "houses_completed_of_2022_2023",
+    "houses_completed_of_2023_2024",
+    "houses_completed_of_2024_2025",
+    "houses_completed_of_2025_2026",
+    "houses_completed_of_2026_2027",
+    "total_houses_completed_in_phase_i"
+   ]
+  }
+ },
+ {
+  "path": "SECCReport/CategoryWiseSeccDataReport.aspx",
+  "slug": "e1-categorywiseseccdatareport",
+  "code": "E.1",
+  "title": "Category-wise SECC data summary",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 36,
+   "columns": [
+    "sno",
+    "state",
+    "total_households",
+    "others",
+    "sc",
+    "st",
+    "minority"
+   ]
+  }
+ },
+ {
+  "path": "SECCReport/Report_PriorityListverification.aspx",
+  "slug": "e2-report-prioritylistverification",
+  "code": "E.2",
+  "title": "Status of Priority List Verification by Gram Sabha",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 36,
+   "columns": [
+    "sno",
+    "state_name",
+    "number_of_gram_panchayats_gps_where_total_no_of_gps",
+    "number_of_gram_panchayats_gps_where_total_no_of_gps_mapped_w",
+    "number_of_gram_panchayats_gps_where_total_no_of_gps_having_e",
+    "number_of_gram_panchayats_gps_where_minorities_has_been_gene",
+    "number_of_gram_panchayats_gps_where_gram_sabha_resolution_ha",
+    "number_of_gram_panchayats_gps_where_panchayats_having_secc_d",
+    "number_of_gram_panchayats_gps_where_panchayats_having_secc_d_2",
+    "number_of_gram_panchayats_gps_where_panchayats_having_secc_d_3",
+    "number_of_gram_panchayats_gps_where_panchayats_having_secc_d_4",
+    "number_of_gram_panchayats_gps_where_removal_list_has_been_en",
+    "number_of_gram_panchayats_gps_where_removal_list_has_been_en_2",
+    "number_of_gram_panchayats_gps_where_removal_list_has_been_en_3",
+    "number_of_gram_panchayats_gps_where_removal_list_has_been_en_4",
+    "number_of_gram_panchayats_gps_where_priority_setting_has_bee",
+    "number_of_gram_panchayats_gps_where_priority_setting_has_bee_2",
+    "number_of_gram_panchayats_gps_where_priority_setting_has_bee_3",
+    "number_of_gram_panchayats_gps_where_priority_setting_has_bee_4",
+    "number_of_gram_panchayats_gps_where_verified_priority_list_h",
+    "number_of_gram_panchayats_gps_where_verified_by_appellate_co",
+    "number_of_gram_panchayats_gps_where_verified_by_appellate_co_2",
+    "number_of_gram_panchayats_gps_where_verified_by_appellate_co_3",
+    "number_of_gram_panchayats_gps_where_verified_by_appellate_co_4",
+    "number_of_gram_panchayats_gps_where_appellate_committee_veri"
+   ]
+  }
+ },
+ {
+  "path": "SECCReport/SeccVillagesMappedReport.aspx",
+  "slug": "e3-seccvillagesmappedreport",
+  "code": "E.3",
+  "title": "Status Of Mapped SECC Villages to GPs of Awaassoft Villages",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 36,
+   "columns": [
+    "sno",
+    "state_name",
+    "villages_as_per_secc_villages_with_secc_data",
+    "villages_as_per_secc_villages_without_secc_data",
+    "villages_as_per_secc_total",
+    "mapped_villages_mapped_with_secc_data",
+    "mapped_villages_mapped_without_secc_data",
+    "mapped_villages_total",
+    "to_be_mapped_villages_with_secc_data",
+    "to_be_mapped_villages_without_secc_data",
+    "to_be_mapped_villages_total"
+   ]
+  }
+ },
+ {
+  "path": "SECCReport/report_categorywiseseccverification.aspx",
+  "slug": "e4-report-categorywiseseccverification",
+  "code": "E.4",
+  "title": "Category - Wise SECC Data Summary of Total Household, Rejected, Priority Setting Done And Appellate Committee Approved.\">",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "state_name",
+    "total_no_of_beneficiaries_minority",
+    "total_no_of_beneficiaries_others",
+    "total_no_of_beneficiaries_sc",
+    "total_no_of_beneficiaries_st",
+    "total_no_of_beneficiaries_total",
+    "rejected_beneficiaries_minority",
+    "rejected_beneficiaries_others",
+    "rejected_beneficiaries_sc",
+    "rejected_beneficiaries_st",
+    "rejected_beneficiaries_total",
+    "remaining_beneficiaries_minority",
+    "remaining_beneficiaries_others",
+    "remaining_beneficiaries_sc",
+    "remaining_beneficiaries_st",
+    "remaining_beneficiaries_total",
+    "priority_setting_minority",
+    "priority_setting_others",
+    "priority_setting_sc",
+    "priority_setting_st",
+    "priority_setting_total",
+    "verified_by_appellate_committee_auto_registered_minority",
+    "verified_by_appellate_committee_auto_registered_others",
+    "verified_by_appellate_committee_auto_registered_sc",
+    "verified_by_appellate_committee_auto_registered_st",
+    "verified_by_appellate_committee_auto_registered_total",
+    "remanded_by_gram_sabha_after_appellate_minority",
+    "remanded_by_gram_sabha_after_appellate_others",
+    "remanded_by_gram_sabha_after_appellate_sc",
+    "remanded_by_gram_sabha_after_appellate_st",
+    "remanded_by_gram_sabha_after_appellate_total",
+    "final_pwl_after_remanded_by_gram_sabha_minority",
+    "final_pwl_after_remanded_by_gram_sabha_others",
+    "final_pwl_after_remanded_by_gram_sabha_sc",
+    "final_pwl_after_remanded_by_gram_sabha_st",
+    "final_pwl_after_remanded_by_gram_sabha_total"
+   ]
+  }
+ },
+ {
+  "path": "SocialProgressReport/Categorywisehousescompletedreport.aspx",
+  "slug": "c2-categorywisehousescompletedreport",
+  "code": "C.2",
+  "title": "Category-wise houses sanctioned and completed",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ],
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ],
+     [
+      "BACKWARD",
+      "PMAYG Cumulative progress for (117 Aspirational districts)"
+     ],
+     [
+      "ALLPMAYG",
+      "PMAYG Cumulative progress"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "PMAYG",
+      "PRADHAN MANTRI AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES (IAY+PMAY-G)"
+     ],
+     [
+      "ALLSS",
+      "ALL STATE SCHEMES"
+     ],
+     [
+      "AJAY",
+      "AADIM JAMATI AWAAS YOJANA"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ABKAYG",
+      "ATAL BANDHKAM KAMGAR AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICMAY",
+      "CHIEF MINISTER BPL AWAAS YOJANA"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "LGAY",
+      "LOHIA GRAMIN AWAS YOJANA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI LADLI BAHNA AWAAS YOJANA"
+     ],
+     [
+      "MMAYG",
+      "MUKHYA MANTRI AWAAS YOJANA GRAMIN (UP)"
+     ],
+     [
+      "MMGASY",
+      "MUKHYAMANTRI GRAMIN AWAAS SAHAYATA YOJANA"
+     ],
+     [
+      "MMGAY",
+      "MUKHYAMANTRI GRAMIN AWAAS YOJANA"
+     ],
+     [
+      "MWSKSY",
+      "MUKHYAMANTRI WAAS STHAL KRAY SAHAYATA YOJANA"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "NC2023",
+      "NATURAL CALAMITIES 2023"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "SP_PTG1718",
+      "PRIMITIVE TRIBAL GROUP 1718"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SSFAA_2223",
+      "SPECIAL SCHEME FLOOD AFFECTED AREA"
+     ],
+     [
+      "SST_2223",
+      "SPECIAL PROJECT NLFT(SD)"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "FANI",
+      "Special Scheme Fani"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ],
+     [
+      "YCMVY",
+      "YASHWANTRAO CHAVAN MUKT VASAHAT YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "state_name",
+    "target_fixed_by_states",
+    "registered",
+    "breakup_of_registration_st",
+    "breakup_of_registration_sc",
+    "breakup_of_registration_minorities",
+    "breakup_of_registration_ph",
+    "breakup_of_registration_others",
+    "sanctions_made",
+    "breakup_of_sanction_st",
+    "breakup_of_sanction_sc",
+    "breakup_of_sanction_minorities",
+    "breakup_of_sanction_ph",
+    "breakup_of_sanction_others",
+    "completed",
+    "breakup_of_completion_st",
+    "breakup_of_completion_sc",
+    "breakup_of_completion_minorities",
+    "breakup_of_completion_ph",
+    "breakup_of_completion_others"
+   ]
+  }
+ },
+ {
+  "path": "SocialProgressReport/IAYCategorywisehousescompletedreport.aspx",
+  "slug": "c2-iaycategorywisehousescompletedreport",
+  "code": "C.2",
+  "title": "Category-wise houses sanctioned and completed",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "INC",
+      "IAY NEW CONSTRUCTION"
+     ],
+     [
+      "INCSP",
+      "IAY & Special project houses"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 36,
+   "columns": [
+    "sno",
+    "state_name",
+    "target_fixed_by_states",
+    "sanctions_made",
+    "breakup_of_sanction_st",
+    "breakup_of_sanction_sc",
+    "breakup_of_sanction_minorities",
+    "breakup_of_sanction_ph",
+    "breakup_of_sanction_others",
+    "completed",
+    "breakup_of_completion_st",
+    "breakup_of_completion_sc",
+    "breakup_of_completion_minorities",
+    "breakup_of_completion_ph",
+    "breakup_of_completion_others"
+   ]
+  }
+ },
+ {
+  "path": "SocialProgressReport/Ownershipdetailsofhousessanctionedreport.aspx",
+  "slug": "c1-ownershipdetailsofhousessanctionedreport",
+  "code": "C.1",
+  "title": "Gender-wise houses sanctioned and completed",
+  "submit": "ctl00$ContentPlaceHolder1$btnSubmit",
+  "dims": [
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlFinYear",
+    "key": "fin_year",
+    "options": [
+     [
+      "2010-2011",
+      "2010-2011"
+     ],
+     [
+      "2011-2012",
+      "2011-2012"
+     ],
+     [
+      "2012-2013",
+      "2012-2013"
+     ],
+     [
+      "2013-2014",
+      "2013-2014"
+     ],
+     [
+      "2014-2015",
+      "2014-2015"
+     ],
+     [
+      "2015-2016",
+      "2015-2016"
+     ],
+     [
+      "2016-2017",
+      "2016-2017"
+     ],
+     [
+      "2017-2018",
+      "2017-2018"
+     ],
+     [
+      "2018-2019",
+      "2018-2019"
+     ],
+     [
+      "2019-2020",
+      "2019-2020"
+     ],
+     [
+      "2020-2021",
+      "2020-2021"
+     ],
+     [
+      "2021-2022",
+      "2021-2022"
+     ],
+     [
+      "2022-2023",
+      "2022-2023"
+     ],
+     [
+      "2023-2024",
+      "2023-2024"
+     ],
+     [
+      "2024-2025",
+      "2024-2025"
+     ],
+     [
+      "2025-2026",
+      "2025-2026"
+     ],
+     [
+      "2026-2027",
+      "2026-2027"
+     ],
+     [
+      "BACKWARD",
+      "PMAYG Cumulative progress for (117 Aspirational districts)"
+     ],
+     [
+      "ALLPMAYG",
+      "PMAYG Cumulative progress"
+     ]
+    ]
+   },
+   {
+    "field": "ctl00$ContentPlaceHolder1$ddlScheme",
+    "key": "scheme",
+    "options": [
+     [
+      "PMAYG",
+      "PRADHAN MANTRI AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "ALLCS",
+      "ALL CENTRAL SCHEMES (IAY+PMAY-G)"
+     ],
+     [
+      "ALLSS",
+      "ALL STATE SCHEMES"
+     ],
+     [
+      "AJAY",
+      "AADIM JAMATI AWAAS YOJANA"
+     ],
+     [
+      "SP_AH",
+      "ADDITIONAL HOUSES"
+     ],
+     [
+      "SP_ABL",
+      "AFFECTED BY LWE"
+     ],
+     [
+      "ABKAYG",
+      "ATAL BANDHKAM KAMGAR AWAAS YOJANA GRAMIN"
+     ],
+     [
+      "BSBAAY",
+      "BABA SAHEB BHIMRAO AMBEDKAR AWAAS YOJNA"
+     ],
+     [
+      "MK",
+      "BIJU PUCCA GHAR"
+     ],
+     [
+      "PBGYM",
+      "BIJU PUCCA GHAR YOJANA (MINING)"
+     ],
+     [
+      "ICMAY",
+      "CHIEF MINISTER BPL AWAAS YOJANA"
+     ],
+     [
+      "ICF",
+      "CONTINGENCY FUND"
+     ],
+     [
+      "ICS",
+      "CREDIT-CUM-SUBSIDY"
+     ],
+     [
+      "SP_CT",
+      "CYCLONE (THANE)"
+     ],
+     [
+      "SP_CP",
+      "CYCLONE PHAILIN"
+     ],
+     [
+      "DAY",
+      "PUNYASHLOK AHILYADEVI HOLKAR GHARKUL YOJANA"
+     ],
+     [
+      "DGY",
+      "DIVYANG GHARKUL YOJANA"
+     ],
+     [
+      "SP_EQ",
+      "EARTHQUAKE"
+     ],
+     [
+      "SP_FVS",
+      "FIRE VICTIMS"
+     ],
+     [
+      "SP_FV",
+      "FLOOD VICTIMS"
+     ],
+     [
+      "SP_FRAB",
+      "FOREST RIGHT ACT BENEFICIARIES"
+     ],
+     [
+      "SP_HR5P",
+      "HEAVY RAIN- 5PERCENT"
+     ],
+     [
+      "SP_IIHS",
+      "IAY INCENTIVE HOMESTEAD SCHEME"
+     ],
+     [
+      "IICEN",
+      "IAY INCENTIVE-HOMESTEAD SCHEME"
+     ],
+     [
+      "SP_I",
+      "INSURGENCY"
+     ],
+     [
+      "IHS",
+      "LAND PURCHASE-HOMESTEAD SCHEME"
+     ],
+     [
+      "LGAY",
+      "LOHIA GRAMIN AWAS YOJANA"
+     ],
+     [
+      "MAGY",
+      "MODI AWAAS GHARKUL YOJNA"
+     ],
+     [
+      "CMAAY",
+      "MUKHAY MANTRI ANTODAYA AWAAS YOJNA"
+     ],
+     [
+      "MMJAY",
+      "MUKHYA MANTRI LADLI BAHNA AWAAS YOJANA"
+     ],
+     [
+      "MMAYG",
+      "MUKHYA MANTRI AWAAS YOJANA GRAMIN (UP)"
+     ],
+     [
+      "MMGASY",
+      "MUKHYAMANTRI GRAMIN AWAAS SAHAYATA YOJANA"
+     ],
+     [
+      "MMGAY",
+      "MUKHYAMANTRI GRAMIN AWAAS YOJANA"
+     ],
+     [
+      "MWSKSY",
+      "MUKHYAMANTRI WAAS STHAL KRAY SAHAYATA YOJANA"
+     ],
+     [
+      "SP_NC",
+      "NATURAL CALAMITY"
+     ],
+     [
+      "NC2023",
+      "NATURAL CALAMITIES 2023"
+     ],
+     [
+      "NSPGY",
+      "NIRMAN SHRAMIK PUCCA GHAR YOJANA"
+     ],
+     [
+      "OIGHS",
+      "OTHER IDENTIFIED GROUP HOUSING SCHEME"
+     ],
+     [
+      "PDU",
+      "PANDIT DINDAYAL UPADHAYA FINANCIAL ASSISTANCE FOR GHARKUL LAND PURCHASE"
+     ],
+     [
+      "PDAY",
+      "PARDHI AWAAS YOJANA"
+     ],
+     [
+      "SP_PTG1718",
+      "PRIMITIVE TRIBAL GROUP 1718"
+     ],
+     [
+      "SP_PTG2122",
+      "PRIMITIVE TRIBAL GROUP 2122"
+     ],
+     [
+      "SP_PTG",
+      "PRIMITIVE TRIBAL GROUP"
+     ],
+     [
+      "PAY",
+      "PRIYADARSHINI AWAAS YOJANA"
+     ],
+     [
+      "RAY",
+      "RAJIV AWAAS YOJANA"
+     ],
+     [
+      "RGAY",
+      "RAJIV GANDHI AWAAS YOJANA"
+     ],
+     [
+      "RAYS",
+      "RAMAI AWAAS YOJNA FOR SC"
+     ],
+     [
+      "SP_ROSM",
+      "REHABILITATION OF SURRENDERED MILITANTS"
+     ],
+     [
+      "SP_ST",
+      "SAHARIYA TRIBES"
+     ],
+     [
+      "SAY",
+      "SHABARI AWAAS YOJANA"
+     ],
+     [
+      "SP_SA",
+      "SILICOSIS AFFECTED"
+     ],
+     [
+      "ISP",
+      "SPECIAL PACKAGE"
+     ],
+     [
+      "SP_5P",
+      "SPECIAL PROJECT- 5PERCENT"
+     ],
+     [
+      "SP_SPO",
+      "SPECIAL PROJECT- OTHER"
+     ],
+     [
+      "SSFAA_2223",
+      "SPECIAL SCHEME FLOOD AFFECTED AREA"
+     ],
+     [
+      "SST_2223",
+      "SPECIAL PROJECT NLFT(SD)"
+     ],
+     [
+      "SP_PHS",
+      "SPECIAL PROJECT PERMANENT HOUSING SCHEME"
+     ],
+     [
+      "SP_STRIB",
+      "SULLUNG TRIBES"
+     ],
+     [
+      "SP_TV",
+      "TORNADO VICTIMS"
+     ],
+     [
+      "FANI",
+      "Special Scheme Fani"
+     ],
+     [
+      "SP_SNNAH",
+      "SURRENDED NAXALITS AND NAXALIT AFFECTED HOUSEHOLDS"
+     ],
+     [
+      "IUP",
+      "UPGRADATION"
+     ],
+     [
+      "YCMVY",
+      "YASHWANTRAO CHAVAN MUKT VASAHAT YOJANA"
+     ]
+    ]
+   }
+  ],
+  "states": [
+   [
+    "03",
+    "ARUNACHAL PRADESH"
+   ],
+   [
+    "04",
+    "ASSAM"
+   ],
+   [
+    "05",
+    "BIHAR"
+   ],
+   [
+    "33",
+    "CHHATTISGARH"
+   ],
+   [
+    "10",
+    "GOA"
+   ],
+   [
+    "11",
+    "GUJARAT"
+   ],
+   [
+    "12",
+    "HARYANA"
+   ],
+   [
+    "13",
+    "HIMACHAL PRADESH"
+   ],
+   [
+    "14",
+    "JAMMU AND KASHMIR"
+   ],
+   [
+    "34",
+    "JHARKHAND"
+   ],
+   [
+    "16",
+    "KERALA"
+   ],
+   [
+    "17",
+    "MADHYA PRADESH"
+   ],
+   [
+    "18",
+    "MAHARASHTRA"
+   ],
+   [
+    "20",
+    "MANIPUR"
+   ],
+   [
+    "21",
+    "MEGHALAYA"
+   ],
+   [
+    "22",
+    "MIZORAM"
+   ],
+   [
+    "23",
+    "NAGALAND"
+   ],
+   [
+    "24",
+    "ODISHA"
+   ],
+   [
+    "26",
+    "PUNJAB"
+   ],
+   [
+    "27",
+    "RAJASTHAN"
+   ],
+   [
+    "28",
+    "SIKKIM"
+   ],
+   [
+    "29",
+    "TAMIL NADU"
+   ],
+   [
+    "30",
+    "TRIPURA"
+   ],
+   [
+    "31",
+    "UTTAR PRADESH"
+   ],
+   [
+    "35",
+    "UTTARAKHAND"
+   ],
+   [
+    "32",
+    "WEST BENGAL"
+   ],
+   [
+    "01",
+    "ANDAMAN AND NICOBAR"
+   ],
+   [
+    "07",
+    "DADRA AND NAGAR HAVELI"
+   ],
+   [
+    "08",
+    "DAMAN AND DIU"
+   ],
+   [
+    "19",
+    "LAKSHADWEEP"
+   ],
+   [
+    "25",
+    "PUDUCHERRY"
+   ],
+   [
+    "02",
+    "ANDHRA PRADESH"
+   ],
+   [
+    "15",
+    "KARNATAKA"
+   ],
+   [
+    "36",
+    "TELANGANA"
+   ],
+   [
+    "37",
+    "LADAKH"
+   ]
+  ],
+  "all_states": "0",
+  "check": {
+   "http": 200,
+   "rows": 37,
+   "columns": [
+    "sno",
+    "state_name",
+    "target_fixed_by_states",
+    "sanctions_made",
+    "breakup_of_sanction_women",
+    "breakup_of_sanction_men",
+    "breakup_of_sanction_joint_wife_and_husband",
+    "breakup_of_sanction_others",
+    "breakup_of_completion_women",
+    "breakup_of_completion_men",
+    "breakup_of_completion_joint_wife_and_husband",
+    "breakup_of_completion_others",
+    "completed"
+   ]
+  }
+ }
+]

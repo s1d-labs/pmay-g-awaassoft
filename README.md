@@ -1,47 +1,43 @@
-# family-template
+# pmay-g-awaassoft
 
-Start a new scraping family for the s1d-labs pool. A family is one kind of site (or one platform many sites share); the pool runs
-its code on members' GitHub Actions minutes. This template is a complete, working family for
-[books.toscrape.com](https://books.toscrape.com) (a public site made for scraping practice): copy it, then change it.
+s1d-labs scrape-pool family for the **PMAY-G AwaasSoft MIS reports** (Pradhan Mantri Awaas Yojana – Gramin, Ministry of Rural
+Development) at [report.pmayg.dord.gov.in/netiay/newreport.aspx](https://report.pmayg.dord.gov.in/netiay/newreport.aspx).
 
-## Make your family
+## What it collects
 
-1. Ask the hub owner to **add the family** on [scrape.s1d.me/runners](https://scrape.s1d.me/runners) (name, what it scrapes, owner).
-   The hub creates `s1d-labs/<family>` from this template, names the family in `scrape.json`, and makes the owner admin
-   (with the GitHub account they added on home.s1d.me).
-2. Clone it: `gh repo clone s1d-labs/<family>`.
-3. In your repo:
-   - `scrape.json`: set `"family"` to the family name; list your tasks (one command each) and setup steps.
-   - `family.py`: your projects (one queue of work per site), their target hosts, the env your command needs, the queue items,
-     and the health checks.
-   - `crawl.py` (or whatever your tasks run): the scraper.
-4. **Check it**: `scrape-check` in the repo (needs `pip install "scrape-hub-client @ git+https://github.com/s1d-labs/runner@main#subdirectory=sdk"`).
-   It runs your setup and task against a local stand-in hub on 3 real items and says what works. The **check** workflow runs it
-   (and `tests/`) on every push.
-5. Run the **setup** workflow (Actions → setup → Run workflow). It registers the projects, puts them in the pool and registers
-   the health checks.
-6. The hub starts runs in members' accounts when the pool is on and there is work. Watch it on scrape.s1d.me.
+Every report on the index that has no captcha (42 of them: physical, financial and social progress, E-FMS / FTO, SECC,
+AwaasPlus 2018 and 2024, PM-Janman, special projects), for every combination of its filters (financial year × scheme × …), at
+every level the site offers: India total, states, districts (and one row per FTO file for F.13).
 
-## What your code gets
+- **One project per report** (`pmay-g-awaassoft-<code>-<page>`), so each report has its own table: `scrape_hub.projects.<project>`
+  in the team database and Metabase ("Team data").
+- **Rows** are flat: `report_code`, `report`, each filter as `<filter>_code` + `<filter>` (label), `level`
+  (`total` / `state` / `district` / `row`), `state_code`, `state`, `district`, `name`, `as_on` (the report's own timestamp), then
+  the report's columns in snake_case with numbers as int / float. Record id = `<item key>~<state code or all>~<row name ...>`, so
+  re-running an item replaces its rows.
+- **Files**: every page the site returned, gzipped, in the owner's bucket at `<project>/pages/<item key>/{all,state-NN,report}.html.gz`.
 
-The pool worker ([s1d-labs/runner](https://github.com/s1d-labs/runner)) checks out this repo at `main`, runs the `setup` steps from
-`scrape.json`, and for each assignment runs the task's command here with:
+Not collected: the 16 reports behind an image captcha (most IAY-era ones and the beneficiary drill-downs), Power BI dashboards, the
+inspection-photo map, F.2 (officials' phone numbers) and F.8 (its form has no Submit button on the site).
 
-| Variable | What |
+## Files
+
+| File | What |
 |---|---|
-| `SCRAPE_POOL_PROJECT` | the project to work on |
-| `SCRAPE_JOB_INDEX`, `SCRAPE_TOTAL_JOBS` | this worker's slice |
-| `SCRAPE_MAX_HOURS` | how long the command may run |
-| `SCRAPE_HUB_URL` | the hub |
-| your project's `env` | e.g. `SITE` |
+| `discover.py` | builds `reports.json` from the live site (reports, filters, options). Re-run when the site adds reports or years: `myproxy run python discover.py` |
+| `reports.json` | the catalogue (committed: the setup workflow runs on GitHub, which can't reach the site) |
+| `family.py` | one project per report, one queue item per filter combination (newest year first), `proxy="IN"` |
+| `crawl.py` | the task: sets the filters one postback at a time (the site resets later dropdowns when an earlier one changes), submits All States, then each state with numbers |
+| `tests/` | parsing tests on saved pages (`python -m pytest tests`) |
 
-Use `scrape_hub_client` (`HubClient`) to claim queue items, store records, upload files and report counters. Exit when there is
-nothing left; the worker then asks the hub for the next assignment.
+## Trying it
 
-## Rules (the full contract is in CLAUDE.md, written for people and for Claude Code)
+The site only answers from India; from a box use `myproxy`:
 
-- **Be polite.** Use `hub.settings["threads"]` and `delay_ms`, idle while `hub.settings["paused"]`, and report `n_http` and
-  `t_http_s` for every request and `http_<code>` / `http_error` for failures: the hub throttles you from these.
-- **Files go through the hub** (`hub.upload_many`): it signs each upload into the family's bucket (500 GB per member) and stops at
-  the cap. Never put storage keys in this repo.
-- **Public data only**; read the site's terms first. See the team docs on home.s1d.me (Scraping rules).
+```
+myproxy run python crawl.py --local PhysicalProgresReport_SPPMAYG.aspx ddlFinYear=ALLPMAYG      # one item, records to stdout
+myproxy run scrape-check --items 2                                                               # setup + task against a stand-in hub
+```
+
+The pool runs it on GitHub runners through the hub's Indian proxies (one per worker, 2 threads, 500 ms between requests).
+The CLAUDE.md in this repo is the full scraper reference.
