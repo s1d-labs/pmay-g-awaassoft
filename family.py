@@ -14,6 +14,11 @@ HERE = Path(__file__).parent
 FAMILY = json.loads((HERE / "scrape.json").read_text())["family"]
 TARGET = "report.pmayg.dord.gov.in"
 REPORTS = json.loads((HERE / "reports.json").read_text())
+# big reports that run only on the India servers (geo="IN"), so the family's 4 proxies and the servers work side by side;
+# the rest run on proxied GitHub runners (and on the servers too when they have room)
+SERVERS_ONLY = {"f4-ftotransactionsummaryreport", "snasparsh-ftotransactionsummaryreport", "c1-ownershipdetailsofhousessanctionedreport",
+                "c2-categorywisehousescompletedreport", "b1-allocation-phasewisereport", "d1-iayftoinstallmentwisereport",
+                "f13-adminftotranssummaryreport"}
 
 
 def items(rep):
@@ -37,7 +42,7 @@ PROJECTS = [
         "probe": f"{FAMILY}:{TARGET}",
         "unit_label": "query", "record_label": "row",
         # a government site: 4 threads per worker, 500 ms apart; the hub's back-off lowers it if the site pushes back
-        "pool": {"proxy": "IN", "geo": "IN", "threads": 4, "delay_ms": 500, "max_workers": 4},
+        "pool": {"proxy": "" if r["slug"] in SERVERS_ONLY else "IN", "geo": "IN", "threads": 4, "delay_ms": 500, "max_workers": 4},
         "items": items(r),
     }
     for r in sorted(REPORTS, key=lambda r: (not r["code"], r["code"], r["slug"]))

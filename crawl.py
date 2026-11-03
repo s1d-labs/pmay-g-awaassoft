@@ -352,6 +352,8 @@ def run_item(f, rep, item):
 
     def get(sel, tag):
         code, page = f.submit(url, sel, rep.get("submit"), firsts)
+        if code == 409:                                    # now and then the site drops a filter under load: once more from a GET
+            code, page = f.submit(url, sel, rep.get("submit"), firsts)
         if code in (None, 302) or code == 500 and page and re.search(r"Invalid postback or callback argument", page):
             return None                                    # not offered here (or moved to another report): nothing to store
         if code == 409:

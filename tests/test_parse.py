@@ -100,4 +100,4 @@ def test_the_catalogue_is_complete():
     for p in family.PROJECTS:
         assert len(p["name"]) <= 64 and p["name"].startswith(family.FAMILY + "-") and p["items"]
         assert len({i["key"] for i in p["items"]}) == len(p["items"])
-        assert p["pool"]["proxy"] == "IN"
+        assert "IN" in (p["pool"]["proxy"], p["pool"]["geo"])
