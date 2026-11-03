@@ -3,8 +3,8 @@
 FAMILY must equal the repo name (s1d-labs/<FAMILY>, case aside) and the family on scrape.s1d.me/runners.
 One project per report (reports.json, made by discover.py): each report has its own columns, so each gets its own table in the
 team database (scrape_hub.projects.<project>). One queue item per combination of the report's filters (financial year x scheme x
-...); the task walks the states inside an item. The site only answers from India: proxy="IN" runs the work on GitHub runners
-through the hub's Indian proxies.
+...); the task walks the states inside an item. The site only answers from India (anywhere else gets 401): proxy="IN" runs
+the work on GitHub runners through the hub's Indian proxies, geo="IN" on the hub's India servers; with both, both take it.
 """
 import itertools
 import json
@@ -36,8 +36,8 @@ PROJECTS = [
         "env": {"SITE": f"https://{TARGET}", "REPORT": r["slug"]},
         "probe": f"{FAMILY}:{TARGET}",
         "unit_label": "query", "record_label": "row",
-        # gentle: a government site, one Indian proxy per worker; the hub's back-off lowers it further if the site pushes back
-        "pool": {"proxy": "IN", "threads": 2, "delay_ms": 500, "max_workers": 4},
+        # a government site: 4 threads per worker, 500 ms apart; the hub's back-off lowers it if the site pushes back
+        "pool": {"proxy": "IN", "geo": "IN", "threads": 4, "delay_ms": 500, "max_workers": 4},
         "items": items(r),
     }
     for r in sorted(REPORTS, key=lambda r: (not r["code"], r["code"], r["slug"]))

@@ -39,5 +39,6 @@ myproxy run python crawl.py --local PhysicalProgresReport_SPPMAYG.aspx ddlFinYea
 myproxy run scrape-check --items 2                                                               # setup + task against a stand-in hub
 ```
 
-The pool runs it on GitHub runners through the hub's Indian proxies (one per worker, 2 threads, 500 ms between requests).
+The site answers 401 to IPs outside India, so the pool runs it on GitHub runners through the hub's Indian proxies (one per worker)
+and on the hub's India servers, 4 threads per worker, 500 ms between requests.
 The CLAUDE.md in this repo is the full scraper reference.
