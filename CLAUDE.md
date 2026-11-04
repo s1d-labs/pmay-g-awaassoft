@@ -204,3 +204,18 @@ per thread. `HubClient` is thread-safe for `record`, `metric`, `failure`, `uploa
 - An endless loop on an empty queue, or tight retries of a failing request: exiting and letting the hub retry works better.
 - Fetching what is already stored, when the site's ids allow checking first.
 - Renaming tasks in `scrape.json` without updating the projects' pool entries (`set_pool`).
+
+## Writing reports
+
+Reports from this repo use ASD-STE100 Simplified Technical English (STE). This includes findings, summaries, reports and README text for readers.
+
+- Use approved words with one meaning. Use the technical names of the subject (bid, tender, award, scraper).
+- Use the same word for the same thing every time.
+- Use the simple present, simple past or simple future tense. Use the active voice.
+- Write not more than 20 words in an instruction and not more than 25 words in a description.
+- Write one topic in each sentence and in each paragraph. A paragraph has not more than six sentences.
+- Write instructions in the imperative. Use vertical lists for steps and items.
+- Do not use more than three nouns in a row. Do not use slang, idioms or contractions.
+- For investigation findings: give exact facts and their sources, write indicators as indicators, and do not name officials or private individuals.
+
+Full summary with examples: team doc `18-writing-standard` (in a team box: `/usr/local/share/team-docs/18-writing-standard.md`).
