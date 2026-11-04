@@ -9,6 +9,10 @@ on:
         description: "Seed only the first N queue items of each report (first pool run); empty = all"
         required: false
         default: ""
+      reset_failed:
+        description: "Put failed queue items back in the queue (after a fix in crawl.py)"
+        type: boolean
+        default: false
 
 permissions:
   id-token: write
@@ -28,3 +32,4 @@ jobs:
         env:
           SCRAPE_HUB_URL: https://scrape.s1d.me
           SEED_LIMIT: ${{ inputs.seed_limit }}
+          RESET_FAILED: ${{ inputs.reset_failed }}

@@ -94,6 +94,22 @@ def test_an_item_walks_all_states_then_each_state_with_numbers():
         assert all(v is None or isinstance(v, (str, int, float)) for v in data.values())
 
 
+def test_filters_are_set_in_page_order_whatever_the_payload_order():
+    order = []
+
+    class Recorder(FakeFetcher):
+        def submit(self, url, sel, submit, firsts=None):
+            order.append([f for f in sel if f != crawl.STATE_FIELD])
+            return None, None
+
+    rep = {"path": "x.aspx", "code": "B.1", "title": "t", "submit": P + "btnSubmit", "all_states": None, "states": None,
+           "dims": [{"field": P + "ddlFinYear", "key": "fin_year", "options": [["2010-2011", "2010-2011"]]},
+                    {"field": P + "ddlScheme", "key": "scheme", "options": [["ICF", "ICF"]]}]}
+    sel = {P + "ddlScheme": "ICF", P + "ddlFinYear": "2010-2011"}        # as the hub's jsonb gives it back: shorter keys first
+    crawl.run_item(Recorder(), rep, {"key": "2010-2011~ICF", "payload": {"sel": sel, "labels": {}}})
+    assert order == [[P + "ddlFinYear", P + "ddlScheme"]]                # the year first: changing it resets the scheme
+
+
 def test_the_catalogue_is_complete():
     import family
     assert len(family.PROJECTS) >= 40 and len({p["name"] for p in family.PROJECTS}) == len(family.PROJECTS)

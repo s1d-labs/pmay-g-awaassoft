@@ -400,7 +400,7 @@ def run_item(f, rep, item):
             out.append(rec)
         return out
 
-    sel = dict(p["sel"])
+    sel = {d["field"]: p["sel"][d["field"]] for d in rep["dims"]}     # page order: the hub's jsonb payload comes back key-sorted
     states = rep.get("states")                              # [[code, name], ...] or None when the report has no state filter
     if not states:
         page = get(sel, "report")
