@@ -1,0 +1,24 @@
+name: reach
+
+# Throwaway: is each planned source reachable from GitHub-hosted runners? (branch reach-check only)
+on:
+  push:
+    branches: [reach-check]
+
+permissions:
+  contents: read
+
+jobs:
+  reach:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      matrix:
+        runner: [1, 2, 3]
+    steps:
+      - run: |
+          echo "runner egress: $(curl -s -m 10 https://api.ipify.org)"
+          for u in https://egramswaraj.gov.in/ https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx https://jaljeevanmission.gov.in/ https://sbm.gov.in/sbmgdashboard/statesdashboard.aspx https://smartcities.gov.in/ https://amrut.mohua.gov.in/ https://pmgatishakti.gov.in/ https://shasanadesh.up.gov.in/ https://goir.ap.gov.in/ https://www.tn.gov.in/ https://document.kerala.gov.in/ https://egazette.gov.in/ https://cspm.gov.in/ https://ipm.mospi.gov.in/ https://indiainvestmentgrid.gov.in/ https://dbtbharat.gov.in/ https://agra.nic.in/ https://ranchi.nic.in/ https://ipm.mospi.gov.in/ https://www.investindia.gov.in/ https://koshvani.up.nic.in/; do
+            r=$(curl -k -s -o /dev/null -m 25 -L --max-redirs 3 -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120 Safari/537.36" -w "%{http_code} %{time_total}s" "$u" 2>&1) || r="$r fail"
+            echo "REACH $u $r"
+          done
